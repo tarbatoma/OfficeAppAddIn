@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 OfficeSuite Add-in – Unified Economic Management Tool
 
 **A powerful Office Add-in integrating Word, Excel, and Windows Forms for smart, centralized economic problem-solving.**
@@ -70,3 +71,6 @@ Seamlessly blending Word, Excel, and Windows Forms, this solution lets you manag
 
 **Ready to power up your Office?  
 Start with OfficeSuite Add-in today!** 📊🚀
+=======
+# OfficeAppAddIn
+>>>>>>> origin/main
