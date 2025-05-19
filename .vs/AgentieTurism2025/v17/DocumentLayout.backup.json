@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formtemplates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formtemplates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formhelp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formhelp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formoferta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formoferta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formselectieoferta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formselectieoferta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formselectieoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formselectieoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formstatistici.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formstatistici.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formstatistici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formstatistici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|c:\\users\\daninafo\\source\\repos\\agentieturism2025\\agentieturism2025\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\datedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\datedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\datedataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\datedataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formexcel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formexcel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\thisdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\thisdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\ribbon1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\ribbon1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formstatistici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formstatistici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formselectieoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formselectieoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\agentieturism2025\\formoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9506E40-D3AC-10A0-9763-C0D12BD0A1C5}|AgentieTurism2025\\AgentieTurism2025.csproj|solutionrelative:agentieturism2025\\formoferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormTemplates.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormTemplates.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAAYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:45:25.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ribbon1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\Ribbon1.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\Ribbon1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:48:13.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ribbon1.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\Ribbon1.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.cs",
+              "RelativeToolTip": "AgentieTurism2025\\Ribbon1.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwGYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:49:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTemplates.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormTemplates.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormTemplates.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:49:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTemplates.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormTemplates.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormTemplates.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormTemplates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:45:19.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormDashboard.cs",
+              "ViewState": "AgIAAFECAAAAAAAAAAA7wHgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:42:21.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormDashboard.Designer.cs",
+              "ViewState": "AgIAALwCAAAAAAAAAAAswOQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:42:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHelp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormHelp.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormHelp.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:45:48.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHelp.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormHelp.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormHelp.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAuwCcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:45:27.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormOferta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormOferta.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormOferta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:05:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormOferta.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormOferta.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormOferta.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:04:42.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormSelectieOferta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormSelectieOferta.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormSelectieOferta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:13:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormSelectieOferta.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormSelectieOferta.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormSelectieOferta.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:13:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormStatistici.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormStatistici.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormStatistici.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowDEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:07:13.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStatistici.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormStatistici.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormStatistici.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:06:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormExcel.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormExcel.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormExcel.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAowCUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:08:32.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormHelp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormHelp.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormHelp.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormHelp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:45:17.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:42:13.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dateDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\dateDataSet.xsd",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\dateDataSet.xsd",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\dateDataSet.xsd",
+              "RelativeToolTip": "AgentieTurism2025\\dateDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-10T14:33:51.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dateDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\dateDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\dateDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\dateDataSet.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\dateDataSet.Designer.cs",
+              "ViewState": "AgIAAJQFAAAAAAAAAAAwwM4FAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:36:39.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ribbon1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\Ribbon1.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\Ribbon1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:48:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormExcel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.Designer.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormExcel.Designer.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.Designer.cs",
+              "RelativeToolTip": "AgentieTurism2025\\FormExcel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:09:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThisDocument.cs",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\ThisDocument.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\ThisDocument.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\ThisDocument.cs",
+              "RelativeToolTip": "AgentieTurism2025\\ThisDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:12:22.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ribbon1.resx",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.resx",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\Ribbon1.resx",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\Ribbon1.resx",
+              "RelativeToolTip": "AgentieTurism2025\\Ribbon1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-15T19:18:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormStatistici.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormStatistici.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormStatistici.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormStatistici.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:06:19.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormExcel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormExcel.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormExcel.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormExcel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:08:26.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormSelectieOferta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormSelectieOferta.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormSelectieOferta.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormSelectieOferta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:13:06.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormOferta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.cs",
+              "RelativeDocumentMoniker": "AgentieTurism2025\\FormOferta.cs",
+              "ToolTip": "C:\\Users\\DaniNafo\\source\\repos\\AgentieTurism2025\\AgentieTurism2025\\FormOferta.cs [Design]",
+              "RelativeToolTip": "AgentieTurism2025\\FormOferta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:04:33.383Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
